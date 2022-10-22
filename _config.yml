@@ -4,8 +4,8 @@ plugins:
 
 title: Midnight theme
 description: Midnight is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: true
 theme: jekyll-theme-midnight
 
 title: Site by @bdeweesevans
