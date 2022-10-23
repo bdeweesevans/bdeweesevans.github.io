@@ -1,10 +1,8 @@
-# The Midnight theme
+# Hey, I'm Ben :)
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/midnight/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/midnight/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-midnight.svg)](https://badge.fury.io/rb/jekyll-theme-midnight)
+*This is my webite. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans), or search most other platforms for my username @bdeweesevans.*
 
-*Midnight is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/midnight), or even [use it today](#usage).*
-
-![Thumbnail of Midnight](sf.gif)
+![image of sf](sf.gif)
 
 ## Usage
 
