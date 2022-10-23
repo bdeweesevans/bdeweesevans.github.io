@@ -2,7 +2,7 @@
 
 *This is my webite. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.*
 
-![image of sf](sf.gif)
+![image of forrest - no exif.](forrest_noexif.jpg)
 
 ## Usage
 
