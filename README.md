@@ -1,6 +1,6 @@
 ## Introduction
 
-*Hey, I'm Ben! Welcome to my space. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.*
+Hey, I'm Ben! Welcome to my space. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.
 
 ![image of forrest - no exif.](forrest_noexif.jpg)
 
