@@ -1,6 +1,6 @@
 # Hey, I'm Ben :)
 
-*This is my webite. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans), or search most other platforms for my username @bdeweesevans.*
+*This is my webite. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most other platforms for my username @bdeweesevans.*
 
 ![image of sf](sf.gif)
 
