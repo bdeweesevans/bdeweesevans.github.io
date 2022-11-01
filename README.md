@@ -22,4 +22,4 @@ On the most basic level, this site is intended to provide a landing page for my 
 
 ![image of chicken - no exif.](photos/7%20chicken.jpg)
 
-![image of concert - no exif.](photos/8%20forrest.jpg)
+![image of concert - no exif.](photos/8%20concert.jpg)
