@@ -2,7 +2,7 @@
 
 ## Project
 You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.
-This site is intended to provide a landing page for my domain so that it doesn't go unused. Below are photos.
+This site is intended to provide a landing page for my domain. Below are photos.
 
 ![image of forrest - no exif.](photos/0%20forrest.jpg)
 
