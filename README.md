@@ -4,8 +4,8 @@ Hey, I'm Ben! Welcome to my space. You can [find my LinkedIn here](https://linke
 
 ![image of forrest - no exif.](photos/0%20forrest.jpg)
 
-## Project philosophy
-On the most basic level, this site is intended to provide a landing page for my domain so that it doesn't go unused. Above that, it's practice and an introduction to web publishing.
+## Project
+This site is intended to provide a landing page for my domain so that it doesn't go unused. Below are photos I didn't put on social media.
 
 
 ![image of waterfall - no exif.](photos/1%20waterfall.jpg)
