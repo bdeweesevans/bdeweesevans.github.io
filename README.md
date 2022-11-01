@@ -1,9 +1,8 @@
 # Homepage
-
-## Project
 You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.
-This site is intended to provide a landing page for my domain. Below are photos.
+This is my domain's landing page, and below are photos.
 
+## Photos
 ![image of forrest - no exif.](photos/0%20forrest.jpg)
 
 ![image of waterfall - no exif.](photos/1%20waterfall.jpg)
