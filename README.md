@@ -1,12 +1,10 @@
 # Homepage
 
-Hey, I'm Ben! Welcome to my space. You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.
-
-![image of forrest - no exif.](photos/0%20forrest.jpg)
-
 ## Project
+You can [find my LinkedIn here](https://linkedin.com/in/bdeweesevans) or search most platforms for my username @bdeweesevans.
 This site is intended to provide a landing page for my domain so that it doesn't go unused. Below are photos I didn't put on social media.
 
+![image of forrest - no exif.](photos/0%20forrest.jpg)
 
 ![image of waterfall - no exif.](photos/1%20waterfall.jpg)
 
