@@ -2,7 +2,7 @@
 You can *[find my LinkedIn here]*(https://linkedin.com/in/bdeweesevans) or search most platforms for my username **@bdeweesevans**.
 This is my domain's landing page, and below are photos.
 
-## Photos
+## Photographs:
 ![image of ferry - no exif.](photos/6%20ferry.jpg)
 
 ![image of waterfall - no exif.](photos/1%20waterfall.jpg)
