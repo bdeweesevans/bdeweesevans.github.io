@@ -1,5 +1,5 @@
 ## Homepage
-You can *[find my LinkedIn here]("https://linkedin.com/in/bdeweesevans" target="_blank" rel="noopener noreferrer")* or search most platforms for my username @bdeweesevans.
+You can *[find my LinkedIn here]("https://linkedin.com/in/bdeweesevans")* or search most platforms for my username @bdeweesevans.
 This is my domain's landing page, and below are photos.
 
 ## Photographs:
