@@ -1,6 +1,6 @@
 ## Homepage
 You can *<a href="https://linkedin.com/in/bdeweesevans" target="_blank" rel="noopener noreferrer">find my LinkedIn here</a>* or search most platforms for my username @bdeweesevans.
-This is my domain's landing page, and below are photos.
+This is my domain's landing page, and below are photos of mine.
 
 ## Photographs:
 ![image of ferry - no exif.](photos/6%20ferry.jpg)
