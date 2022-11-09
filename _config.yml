@@ -7,7 +7,6 @@ title: bdeweesevans
 description: >- # this means to ignore newlines until "baseurl:"
   Site belonging to Benjamin DeWeese van Schooneveld. 
   @bdeweesevans
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bdeweesevans.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
