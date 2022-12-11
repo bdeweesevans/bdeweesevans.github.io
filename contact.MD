@@ -6,4 +6,4 @@ Page under works.
 <a href="https://instagram.com/bdeweesevans" target="_blank" rel="noopener noreferrer">Instagram</a>
 <br>
 
-Twitter
+Twitter.
