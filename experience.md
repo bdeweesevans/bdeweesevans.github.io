@@ -19,7 +19,7 @@ Coursework and certificates of relevence will be listed below.
 ### Certificates:<br>
 ![image of certs banner.](assets/images/certsbanner.jpg)<br>
 ● Udemy - In Progress<br>
-● <a href="https://credentials.corporatefinanceinstitute.com/15e63c28-dd1f-4c64-af3c-207cfb5465d8" target="_blank" rel="noopener noreferrer">Bloomberg Esentials</a>
+● <a href="https://credentials.corporatefinanceinstitute.com/15e63c28-dd1f-4c64-af3c-207cfb5465d8" target="_blank" rel="noopener noreferrer">Bloomberg Essentials</a>
 
 ### Practice:
 ![image of lc banner.](assets/images/lcbanner.jpg)<br>
