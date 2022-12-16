@@ -1,6 +1,5 @@
 ## Home:
-Domain landing page of bdeweesevans.com. This domain currently houses photos, a <a href="https://open.spotify.com/playlist/1i8KzyzqlPhvEBvxGGFA62?si=8512d773ce144bb2
-">playlist link</a>, and my <a href="https://www.bdeweesevans.com/experience.html">technical experience</a>.
+Domain landing page of bdeweesevans.com. This site currently houses photos and my <a href="https://www.bdeweesevans.com/experience.html">technical experience</a>.
 
 ## Photographs:
 <p style="text-align:center">Orcas Island, Washington</p>
