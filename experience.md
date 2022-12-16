@@ -9,7 +9,7 @@ Coursework and certificates of relevence will be listed below.
 ● <a href="https://philosophy.uoregon.edu/" target="_blank" rel="noopener noreferrer">PHIL-223 Data Ethics</a> - In Progress<br>
 ● <a href="https://math.uoregon.edu/" target="_blank" rel="noopener noreferrer">MATH-111 Precalculus</a><br>
 ● <a href="https://math.uoregon.edu/" target="_blank" rel="noopener noreferrer">MATH-112 (more) Precalculus</a> - In Progress<br>
-● <a href="https://economics.uoregon.edu/" target="_blank" rel="noopener noreferrer">ECON-201 Micro Economics</a><br>
+● <a href="https://economics.uoregon.edu/" target="_blank" rel="noopener noreferrer">ECON-201 Microeconomics</a><br>
 ● <a href="https://business.uoregon.edu/" target="_blank" rel="noopener noreferrer">BA-215 The Language of Business Decisions</a> - In Progress<br>
 ● <a href="https://www.westvalley.edu/academics/business-administration/" target="_blank" rel="noopener noreferrer">BUS-51 Business</a>
 
