@@ -1,5 +1,6 @@
 ## Work & Certs:
-Page under construction. <a href="https://www.bdeweesevans.com">Return Home</a>.<br>
+Page under construction.<br>
+<a href="https://www.bdeweesevans.com">Return Home</a>.<br>
 Coursework and certificates of relevence listed below.
 
 ### University Courses:<br>
