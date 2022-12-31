@@ -22,7 +22,7 @@ Coursework and certificates of relevence listed below.
 
 ### Certificates:<br>
 ![image of certs banner.](assets/images/certsbanner.jpg)<br>
-● <a href="https://www.udemy.com/course/automate/" target="_blank" rel="noopener noreferrer">Udemy</a> - In Progress<br>
+● <a href="https://www.udemy.com/certificate/UC-a0fc93bd-748d-4c91-983e-4a41b3c67c3c/" target="_blank" rel="noopener noreferrer">Udemy</a><br>
 ● <a href="https://credentials.corporatefinanceinstitute.com/15e63c28-dd1f-4c64-af3c-207cfb5465d8" target="_blank" rel="noopener noreferrer">Bloomberg Esentials</a>
 
 ### Practice:
