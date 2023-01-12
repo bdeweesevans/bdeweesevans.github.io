@@ -1,5 +1,5 @@
 ## Home:
-Domain landing page of bdeweesevans.com. This site currently houses photos, my <a href="https://www.bdeweesevans.com/projects.html">projects</a>. and <a href="https://www.bdeweesevans.com/experience.html">technical experience</a>.
+Domain landing page of bdeweesevans.com. Site houses photos, my <a href="https://www.bdeweesevans.com/projects.html">projects</a> and <a href="https://www.bdeweesevans.com/experience.html">technical experience</a>.
 
 ## Photographs:
 <p style="text-align:center">Orcas Island, Washington</p>
