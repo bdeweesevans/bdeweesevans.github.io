@@ -5,7 +5,7 @@ Projects of relevence listed below.
 ### 10clicks.org:<br>
 ![image of 10c banner.](assets/images/10cbanner.jpg)<br>
 ● Utilized: Deno, HTML, CSS, Google Domains, Figma.<br>
-● Description: 10clicks.org is a checklist based webste hosted on GitHub and deployed through Deno Deploy. Developed by Oleksandr Gorpynich and I.<br>
+● Description: 10clicks.org is a checklist based webste hosted on GitHub and deployed through Deno Deploy. Developed with Oleksandr Gorpynich.<br>
 ● Live Site: <a href="https://www.10clicks.org" target="_blank" rel="noopener noreferrer">www.10clicks.org</a><br>
 ● Code Base: <a href="https://www.github.com/bdeweesevans/10clicks.org" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
 
